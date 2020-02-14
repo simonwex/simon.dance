@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="335.16" height="128.27" viewBox="0 0 335.16 128.27">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 78.63px;
+        fill: #ff60b7;
+        font-family: CuisineOT-Pro, CuisineOT;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.04em;
+      }
+
+      .cls-3 {
+        fill: #9f72ff;
+        letter-spacing: 0.08em;
+      }
+
+      .cls-4 {
+        fill: #5abce6;
+      }
+
+      .cls-5 {
+        font-size: 37px;
+        fill: #88888f;
+        font-family: AzoSans-Black, Azo Sans;
+        font-weight: 800;
+        letter-spacing: 0.11em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0.15em;
+      }
+    </style>
+  </defs>
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <text class="cls-1" transform="translate(79.35 70.37)"><tspan class="cls-2">W</tspan><tspan class="cls-3" x="90.73" y="0">e</tspan><tspan class="cls-4" x="130.13" y="0">x</tspan></text>
+        <text class="cls-5" transform="translate(91.34 110.97)">D<tspan class="cls-6" x="32.04" y="0">ANCE</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
