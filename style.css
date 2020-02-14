@@ -1,0 +1,42 @@
+html, body {
+  background-color: #414042;
+}
+svg {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 500px;
+   height: 500px;
+   margin-top: -250px; /* Half the height */
+   margin-left: -250px; /* Half the width */
+}
+.cls-1 {
+  font-size: 78.63px;
+  fill: #ff60b7;
+  font-family: CuisineOT-Pro, CuisineOT;
+}
+
+.cls-2 {
+  letter-spacing: 0.04em;
+}
+
+.cls-3 {
+  fill: #9f72ff;
+  letter-spacing: 0.08em;
+}
+
+.cls-4 {
+  fill: #5abce6;
+}
+
+.cls-5 {
+  font-size: 37px;
+  fill: #88888f;
+  font-family: AzoSans-Black, Azo Sans;
+  font-weight: 800;
+  letter-spacing: 0.11em;
+}
+
+.cls-6 {
+  letter-spacing: 0.15em;
+}
